@@ -1,0 +1,6 @@
+1.Numpy
+2.Pandas
+3.Matplotlib
+4.NLTK
+5.Profinity
+6.Scikit-learn
